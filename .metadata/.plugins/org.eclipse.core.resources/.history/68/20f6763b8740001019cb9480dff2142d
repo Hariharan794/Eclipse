@@ -12,7 +12,6 @@ public class Array {
 	as[3]="aswin";
 	as[4]="balaji";
 	as[5]="santhosh";
-	as[6]="Balaji";
 	
 	System.out.println(as[5]);
 	
