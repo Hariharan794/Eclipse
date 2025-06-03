@@ -1,0 +1,24 @@
+package List;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class ClassA {
+	public static void main(String[] args) {
+		List<Integer> li = new LinkedList<Integer>();
+		
+		li.add(10);
+		li.add(1);
+		li.add(11);
+		li.add(21);
+		li.add(15);
+		li.add(10);
+		li.add(145);
+		
+		System.out.println(li);
+		
+		
+		
+	}
+
+}

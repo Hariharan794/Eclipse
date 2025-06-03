@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13738" started-at="2025-05-22T10:07:46Z" finished-at="2025-05-22T10:08:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13738" started-at="2025-05-22T10:07:46Z" finished-at="2025-05-22T10:08:00Z">
+      <class name="tng_parallel.tng">
+        <test-method status="PASS" signature="bfr()[pri:0, instance:tng_parallel.tng@5649fd9b]" name="bfr" is-config="true" duration-ms="13089" started-at="2025-05-22T10:07:46Z" finished-at="2025-05-22T10:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfr -->
+        <test-method status="PASS" signature="bfrm()[pri:0, instance:tng_parallel.tng@5649fd9b]" name="bfrm" is-config="true" duration-ms="1" started-at="2025-05-22T10:07:59Z" finished-at="2025-05-22T10:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrm -->
+        <test-method status="PASS" signature="tc1(java.lang.String, java.lang.String)[pri:0, instance:tng_parallel.tng@5649fd9b]" name="tc1" duration-ms="559" started-at="2025-05-22T10:07:59Z" finished-at="2025-05-22T10:08:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hari@2003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[132003]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aftm()[pri:0, instance:tng_parallel.tng@5649fd9b]" name="aftm" is-config="true" duration-ms="1" started-at="2025-05-22T10:08:00Z" finished-at="2025-05-22T10:08:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftm -->
+      </class> <!-- tng_parallel.tng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

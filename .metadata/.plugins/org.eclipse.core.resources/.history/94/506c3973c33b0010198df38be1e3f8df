@@ -1,0 +1,19 @@
+package Swappping;
+
+public class ClassA {
+	public static void main(String[] args) {
+		int a=10;
+		int b=30;
+		int c;
+		
+		System.out.println("Before swapping:"+a);
+		System.out.println("Before swapping:"+b);
+		
+		c=b;
+		b=a;
+		System.out.println("after swapping:"+b);
+		System.out.println("after swapping:"+a);
+		
+	}
+
+}

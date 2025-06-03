@@ -1,0 +1,24 @@
+package Basic;
+
+public class ClassA {
+	public static void main(String[] args) {
+//		System.out.println(10+2);
+//		System.out.println(10-2);
+//		System.out.println(10*2);
+//		System.out.println(10/2);
+//		System.out.println(10%3);
+		
+//		int sum=0;
+//		
+//		for (int i = 0; i <=9; i++) {
+//			sum=sum+i;
+//		}
+//		System.out.println(sum);
+		
+		
+		
+		
+		
+	}
+
+}

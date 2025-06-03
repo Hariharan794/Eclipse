@@ -1,0 +1,20 @@
+package Swappping;
+
+public class ClassA {
+	public static void main(String[] args) {
+		int a=20;
+		int b=30;
+		
+		System.out.println("Before swapping:"+a);
+		System.out.println("Before swapping:"+b);
+	
+			//logic 1 -third variable
+		int t=a;	//t=20
+		t=a;		
+		a=t;
+		System.out.println("after swapping:"+a);
+		System.out.println("after swapping:"+t);
+		
+	}
+
+}

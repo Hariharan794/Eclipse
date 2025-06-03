@@ -1,0 +1,30 @@
+package Swappping;
+
+public class ClassA {
+	public static void main(String[] args) {
+		int a=20;
+		int b=30;
+		
+		System.out.println("Before swapping:"+a);
+		System.out.println("Before swapping:"+b);
+	
+//			//logic 1 -third variable
+//		int c=a;	//t=20
+//		c=a;		
+//		a=t;
+		
+			//logic 2 -without using third variable
+		
+		a=a+b;		//20+30=50
+		b=a-b;		//50-30=20
+		a=a*b;		//50*20=1000
+	
+	
+		
+		
+		System.out.println("after swapping:"+a);
+		System.out.println("after swapping:"+b);
+		
+	}
+
+}

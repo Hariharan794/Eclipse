@@ -1,0 +1,21 @@
+package Palindrome;
+
+import java.util.Scanner;
+
+public class ClassA {
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int nextInt = s.nextInt();
+		
+		int num=0;
+		int rev=0;
+		
+		while (num!=0) {
+			rev = rev*10 + num%10;
+			num=num/10;
+		}
+		System.out.println(rev);
+		
+	}
+
+}

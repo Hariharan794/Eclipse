@@ -1,0 +1,89 @@
+package Reverse;
+
+import java.util.Scanner;
+
+public class ClasssA {
+	public static void main(String[] args) {
+//		String s ="programming";
+		
+//		System.out.println(s);
+		
+//		-----------------------------------------
+									//(PreDefended Method)
+		
+//		StringBuffer s1= new StringBuffer("java");
+//		
+//		StringBuffer reverse = s1.reverse();
+//		System.out.println(reverse);
+		
+//	-----------------------------------------------------
+		                            //(Without preDefended Method)
+	
+//		for (int i =s.length()-1; i >=0; i--) {
+//			char charAt = s.charAt(i);
+//			System.out.print(charAt);
+//		}
+		
+//		--------------------------------
+//		Scanner s = new Scanner(System.in);
+//		System.out.println("Enter a Number:");
+		
+		
+//		int nextInt = s.nextInt();
+//		String nextLine = s.nextLine();
+//		
+//		StringBuffer s1 = new StringBuffer(String.valueOf(nextLine));
+//		StringBuffer reverse = s1.reverse();
+//		
+//		System.out.println(reverse);
+		
+//		-----------------------------------------
+		
+//		int nextInt = s.nextInt();
+//		StringBuilder s1 = new StringBuilder();
+//		
+//		s1.append(nextInt);
+//		StringBuilder reverse = s1.reverse();
+//		System.out.println(reverse);
+		
+//		----------------------------------------------------
+		int num=904312;
+		int rem=0;
+		int rev=0;
+		
+		while (num!=0) {
+		//1.fetch your last digit
+			rem=num%10;
+			
+		//store your last digit and multiple
+			rev=(rev*10)+rem;
+			
+		//delete your last digit
+			num=num/10;
+		}
+		System.out.println(rev);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+//		String rev ="";
+//		
+//		for (int i = s.length()-1; i >=0; i--) {
+//			char charAt = s.charAt(i);
+//			rev=rev + charAt;
+//	}
+//		System.out.println(s);
+//		System.out.println(rev);
+	}
+}

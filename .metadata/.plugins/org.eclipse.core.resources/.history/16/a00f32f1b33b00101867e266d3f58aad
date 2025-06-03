@@ -1,0 +1,29 @@
+package List;
+
+import java.util.LinkedHashSet;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Set;
+
+public class ClassA {
+	public static void main(String[] args) {
+		List<Integer> li = new LinkedList<Integer>();
+		
+		li.add(10);
+		li.add(1);
+		li.add(11);
+		li.add(21);
+		li.add(15);
+		li.add(10);
+		li.add(145);
+		
+		System.out.println(li);
+		
+		Set<Integer> s = new LinkedHashSet<Integer>(li);
+		System.out.println(s);
+		
+		
+		
+	}
+
+}

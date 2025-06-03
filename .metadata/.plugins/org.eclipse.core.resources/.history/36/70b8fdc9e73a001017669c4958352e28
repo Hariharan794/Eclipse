@@ -1,0 +1,17 @@
+package Basic;
+
+public class AddEven {
+	public static void main(String[] args) {
+		
+		int a=3;
+		int b1=6;
+		int num = a,b;
+		
+		if (num/2==0) {
+			System.out.println("Number is even");
+		} else {
+			System.out.println("Number is Add");
+		}
+	}
+
+}

@@ -1,0 +1,53 @@
+package Palindrome;
+
+import java.util.Scanner;
+
+public class ClassA {
+	public static void main(String[] args) {
+		
+									//Number
+//		Scanner s = new Scanner(System.in);
+//		int num = s.nextInt();
+//		
+//		int rev=0;
+//		int org_num=num;
+//		
+//		while (num!=0) {
+//			rev = rev*10 + num%10;
+//			num=num/10;
+//		}
+//		if (org_num==rev) {
+//			System.out.println(org_num+"palindrome");
+//		} else {
+//			System.out.println(org_num+"Not palindrome");
+//		}
+		
+//		---------------------------------------------------------
+									//String
+//		Scanner s = new Scanner(System.in);
+//		String next = s.next();
+//		String org_str=next;
+		
+		String s1 ="madam";
+		String org_str=s1;
+		
+		
+		StringBuffer sb = new StringBuffer(s1);
+		String reverse = sb.reverse().toString();
+		
+		if (org_str.equals(reverse)) {
+			System.out.println(org_str+" is a palindrome");
+		} else {
+			System.out.println(org_str+" is a Not palindrome");
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
