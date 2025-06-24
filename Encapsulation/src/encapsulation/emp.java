@@ -1,7 +1,7 @@
 package encapsulation;
 
 public class emp {
-private int age; 
+	private int age; 
 	
 	private String Name;
 	

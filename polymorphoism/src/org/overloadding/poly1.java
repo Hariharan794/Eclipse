@@ -1,7 +1,8 @@
-package org.overlosdding;
+package org.overloadding;
 
 
 public class poly1 {							// overloading method
+	
 	private void company() {              
 		System.out.println("emolh");          // argument'sdatatype
 	}
