@@ -7,42 +7,118 @@
     <language>en</language>
     
     <item>
-  <title>JRebel and XRebel for Eclipse</title>
-  <link>https://marketplace.eclipse.org/content/jrebel-and-xrebel-eclipse</link>
+  <title>GitLab for Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/gitlab-eclipse</link>
   <description>
-&lt;span&gt;JRebel and XRebel for Eclipse&lt;/span&gt;
+&lt;span&gt;GitLab for Eclipse&lt;/span&gt;
 
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;JRebel is a productivity tool that allows developers to reload code changes instantly. It skips the rebuild, restart, and redeploy cycle common in Java development. JRebel enables...&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;GitLab for Eclipse GitLab for Eclipse brings GitLab Duo’s AI-powered capabilities to your IDE, so you can code more efficiently, right where you work. This plugin integrates the...&lt;/p&gt;
 
 &lt;/div&gt;
       
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/mrasmussenton"&gt;Michael Rasmussen&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/gitlab"&gt;GitLab Inc&lt;/a&gt;&lt;/span&gt;
 
-&lt;span&gt;&lt;time datetime="2011-01-25T08:59:21-05:00" title="Tuesday, January 25, 2011 - 08:59"&gt;Tue, 01/25/2011 - 08:59&lt;/time&gt;
+&lt;span&gt;&lt;time datetime="2025-01-15T10:39:37-05:00" title="Wednesday, January 15, 2025 - 10:39"&gt;Wed, 01/15/2025 - 10:39&lt;/time&gt;
 &lt;/span&gt;
 </description>
-  <pubDate>Tue, 25 Jan 2011 13:59:21 +0000</pubDate>
-    <dc:creator>Michael Rasmussen</dc:creator>
-    <guid isPermaLink="false">29591 at https://marketplace.eclipse.org</guid>
+  <pubDate>Wed, 15 Jan 2025 15:39:37 +0000</pubDate>
+    <dc:creator>GitLab Inc</dc:creator>
+    <guid isPermaLink="false">6528850 at https://marketplace.eclipse.org</guid>
     </item>
 <item>
-  <title>Checkstyle Plug-in</title>
-  <link>https://marketplace.eclipse.org/content/checkstyle-plug</link>
+  <title>Migration Toolkit for Runtimes (MTR) </title>
+  <link>https://marketplace.eclipse.org/content/migration-toolkit-runtimes-mtr</link>
   <description>
-&lt;span&gt;Checkstyle Plug-in&lt;/span&gt;
+&lt;span&gt;Migration Toolkit for Runtimes (MTR) &lt;/span&gt;
 
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Checkstyle Plugin (eclipse-cs) integrates the well-known source code analyzer Checkstyle into the Eclipse IDE. Checkstyle is a development tool to help you ensure that your...&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Windup is a command-line Application Migration and Modernization assessment tool. Provides Eclipse integration with the Migration Toolkit for Runtimes (MTR) project.&lt;/p&gt;
 
 &lt;/div&gt;
       
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/ldderitzsch74f"&gt;Lars ödderitzsch&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/jtools"&gt;JBoss Tools&lt;/a&gt;&lt;/span&gt;
 
-&lt;span&gt;&lt;time datetime="2005-05-26T21:03:32-04:00" title="Thursday, May 26, 2005 - 21:03"&gt;Thu, 05/26/2005 - 21:03&lt;/time&gt;
+&lt;span&gt;&lt;time datetime="2023-03-22T04:35:44-04:00" title="Wednesday, March 22, 2023 - 04:35"&gt;Wed, 03/22/2023 - 04:35&lt;/time&gt;
 &lt;/span&gt;
 </description>
-  <pubDate>Fri, 27 May 2005 01:03:32 +0000</pubDate>
-    <dc:creator>Lars ödderitzsch</dc:creator>
-    <guid isPermaLink="false">150 at https://marketplace.eclipse.org</guid>
+  <pubDate>Wed, 22 Mar 2023 08:35:44 +0000</pubDate>
+    <dc:creator>JBoss Tools</dc:creator>
+    <guid isPermaLink="false">5585707 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Migration Toolkit for Applications (MTA) </title>
+  <link>https://marketplace.eclipse.org/content/migration-toolkit-applications-mta</link>
+  <description>
+&lt;span&gt;Migration Toolkit for Applications (MTA) &lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Migration Toolkit for Applications (MTA) plugin for Eclipse Platform-based IDEs. Provides tooling to accelerate application migration by marking migration issues in the source...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/jtools"&gt;JBoss Tools&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-03-28T05:11:06-04:00" title="Tuesday, March 28, 2023 - 05:11"&gt;Tue, 03/28/2023 - 05:11&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 28 Mar 2023 09:11:06 +0000</pubDate>
+    <dc:creator>JBoss Tools</dc:creator>
+    <guid isPermaLink="false">5586720 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Chatbot Assistant for Eclipse</title>
+  <link>https://marketplace.eclipse.org/content/chatbot-assistant-eclipse</link>
+  <description>
+&lt;span&gt;Chatbot Assistant for Eclipse&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;An AI-powered chatbot plugin for Eclipse IDE. It opens in a dedicated view and interacts with developers through a browser-based interface. It can assist with code, answer...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/codes4bots"&gt;codes bots&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2025-06-19T05:56:43-04:00" title="Thursday, June 19, 2025 - 05:56"&gt;Thu, 06/19/2025 - 05:56&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 19 Jun 2025 09:56:43 +0000</pubDate>
+    <dc:creator>codes bots</dc:creator>
+    <guid isPermaLink="false">6895026 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>SonarQube for IDE</title>
+  <link>https://marketplace.eclipse.org/content/sonarqube-ide</link>
+  <description>
+&lt;span&gt;SonarQube for IDE&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;This plug-in helps you detect and fix quality and security issues as you write code in Java/JSP, C/C++, JS/TS/CSS, PHP, Python, and HTML/XML, as well as other languages.&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/jhenrym6y"&gt;Julien HENRY&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2015-10-15T14:54:47-04:00" title="Thursday, October 15, 2015 - 14:54"&gt;Thu, 10/15/2015 - 14:54&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Thu, 15 Oct 2015 18:54:47 +0000</pubDate>
+    <dc:creator>Julien HENRY</dc:creator>
+    <guid isPermaLink="false">2568658 at https://marketplace.eclipse.org</guid>
+    </item>
+<item>
+  <title>Tabnine - AI assistant &amp; Chat for software developers</title>
+  <link>https://marketplace.eclipse.org/content/tabnine-ai-assistant-chat-software-developers</link>
+  <description>
+&lt;span&gt;Tabnine - AI assistant &amp;amp; Chat for software developers&lt;/span&gt;
+
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Tabnine: AI-powered chat and code completion for 80+ languages and frameworks including JavaScript, Python, Java, PHP, Go, and more Tabnine is the AI coding assistant that...&lt;/p&gt;
+
+&lt;/div&gt;
+      
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/alibeskindmulyan"&gt;Avichay Libesk…&lt;/a&gt;&lt;/span&gt;
+
+&lt;span&gt;&lt;time datetime="2023-04-18T09:42:14-04:00" title="Tuesday, April 18, 2023 - 09:42"&gt;Tue, 04/18/2023 - 09:42&lt;/time&gt;
+&lt;/span&gt;
+</description>
+  <pubDate>Tue, 18 Apr 2023 13:42:14 +0000</pubDate>
+    <dc:creator>Avichay Libeskind Mulyan</dc:creator>
+    <guid isPermaLink="false">5590071 at https://marketplace.eclipse.org</guid>
     </item>
 <item>
   <title>DBeaver</title>
@@ -64,137 +140,61 @@
     <guid isPermaLink="false">507775 at https://marketplace.eclipse.org</guid>
     </item>
 <item>
-  <title>eclipse-pmd</title>
-  <link>https://marketplace.eclipse.org/content/eclipse-pmd</link>
+  <title>CMake Editor</title>
+  <link>https://marketplace.eclipse.org/content/cmake-editor</link>
   <description>
-&lt;span&gt;eclipse-pmd&lt;/span&gt;
+&lt;span&gt;CMake Editor&lt;/span&gt;
 
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The eclipse-pmd plug-in integrates the source code analyzer PMD into the Eclipse IDE. Everytime you save your work, eclipse-pmd scans your source code and looks for potential...&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;CMake Editor adds syntax coloring, code completion and code templates for CMake files.&lt;/p&gt;
 
 &lt;/div&gt;
       
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/pgrafn2q"&gt;Philip Graf&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/mweber0xe"&gt;Martin Weber&lt;/a&gt;&lt;/span&gt;
 
-&lt;span&gt;&lt;time datetime="2013-06-22T05:32:19-04:00" title="Saturday, June 22, 2013 - 05:32"&gt;Sat, 06/22/2013 - 05:32&lt;/time&gt;
+&lt;span&gt;&lt;time datetime="2016-07-19T15:29:45-04:00" title="Tuesday, July 19, 2016 - 15:29"&gt;Tue, 07/19/2016 - 15:29&lt;/time&gt;
 &lt;/span&gt;
 </description>
-  <pubDate>Sat, 22 Jun 2013 09:32:19 +0000</pubDate>
-    <dc:creator>Philip Graf</dc:creator>
-    <guid isPermaLink="false">932046 at https://marketplace.eclipse.org</guid>
+  <pubDate>Tue, 19 Jul 2016 19:29:45 +0000</pubDate>
+    <dc:creator>Martin Weber</dc:creator>
+    <guid isPermaLink="false">2983824 at https://marketplace.eclipse.org</guid>
     </item>
 <item>
-  <title>pmd-eclipse-plugin</title>
-  <link>https://marketplace.eclipse.org/content/pmd-eclipse-plugin</link>
+  <title>MicroEJ</title>
+  <link>https://marketplace.eclipse.org/content/microej</link>
   <description>
-&lt;span&gt;pmd-eclipse-plugin&lt;/span&gt;
+&lt;span&gt;MicroEJ&lt;/span&gt;
 
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;PMD is a source code analyzer. It finds common programming flaws like unused variables, empty catch blocks, unnecessary object creation, and so forth. It supports Java, JavaScript...&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Eclipse plugin to develop software applications using MICROEJ SDK. Please refer to the documentation for installation instructions and to learn know how to use it. Need help...&lt;/p&gt;
 
 &lt;/div&gt;
       
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/adangel"&gt;Andreas Dangel&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/microej"&gt;MicroEJ Corp.&lt;/a&gt;&lt;/span&gt;
 
-&lt;span&gt;&lt;time datetime="2016-03-05T09:48:53-05:00" title="Saturday, March 5, 2016 - 09:48"&gt;Sat, 03/05/2016 - 09:48&lt;/time&gt;
+&lt;span&gt;&lt;time datetime="2023-08-17T10:15:01-04:00" title="Thursday, August 17, 2023 - 10:15"&gt;Thu, 08/17/2023 - 10:15&lt;/time&gt;
 &lt;/span&gt;
 </description>
-  <pubDate>Sat, 05 Mar 2016 14:48:53 +0000</pubDate>
-    <dc:creator>Andreas Dangel</dc:creator>
-    <guid isPermaLink="false">2755329 at https://marketplace.eclipse.org</guid>
+  <pubDate>Thu, 17 Aug 2023 14:15:01 +0000</pubDate>
+    <dc:creator>MicroEJ Corp.</dc:creator>
+    <guid isPermaLink="false">5654441 at https://marketplace.eclipse.org</guid>
     </item>
 <item>
-  <title>Eclipse IDE Integration for Core Software Delivery Platform</title>
-  <link>https://marketplace.eclipse.org/content/eclipse-ide-integration-core-software-delivery-platform</link>
+  <title>IBM® Application Modernization Accelerator Developer Tools</title>
+  <link>https://marketplace.eclipse.org/content/ibm%C2%AE-application-modernization-accelerator-developer-tools</link>
   <description>
-&lt;span&gt;Eclipse IDE Integration for Core Software Delivery Platform&lt;/span&gt;
+&lt;span&gt;IBM® Application Modernization Accelerator Developer Tools&lt;/span&gt;
 
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Eclipse IDE Integration for Core Software Delivery Platform Compatible with Core Software Delivery Platform version 12.55.4 and above. Allows you to manage your backlog items...&lt;/p&gt;
+            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;IBM® Application Modernization Accelerator Developer Tools Overview Easily and quickly modernize your enterprise Java applications using IBM Application Modernization Accelerator...&lt;/p&gt;
 
 &lt;/div&gt;
       
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/atothnvp"&gt;Andras Toth&lt;/a&gt;&lt;/span&gt;
+&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/awisniewski"&gt;Adam Wisniewski&lt;/a&gt;&lt;/span&gt;
 
-&lt;span&gt;&lt;time datetime="2017-07-05T07:55:12-04:00" title="Wednesday, July 5, 2017 - 07:55"&gt;Wed, 07/05/2017 - 07:55&lt;/time&gt;
+&lt;span&gt;&lt;time datetime="2025-06-20T08:56:15-04:00" title="Friday, June 20, 2025 - 08:56"&gt;Fri, 06/20/2025 - 08:56&lt;/time&gt;
 &lt;/span&gt;
 </description>
-  <pubDate>Wed, 05 Jul 2017 11:55:12 +0000</pubDate>
-    <dc:creator>Andras Toth</dc:creator>
-    <guid isPermaLink="false">3528014 at https://marketplace.eclipse.org</guid>
-    </item>
-<item>
-  <title>Helpdesk Links</title>
-  <link>https://marketplace.eclipse.org/content/helpdesk-links</link>
-  <description>
-&lt;span&gt;Helpdesk Links&lt;/span&gt;
-
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Helpdesk Links plugin allows you to create hyperlinking for helpdesk-related references in your code, such as Jira tickets, GitHub issues, SAP Notes, Ivanti requests, and more...&lt;/p&gt;
-
-&lt;/div&gt;
-      
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/lpegiel"&gt;Lukasz Pegiel&lt;/a&gt;&lt;/span&gt;
-
-&lt;span&gt;&lt;time datetime="2025-05-29T15:15:07-04:00" title="Thursday, May 29, 2025 - 15:15"&gt;Thu, 05/29/2025 - 15:15&lt;/time&gt;
-&lt;/span&gt;
-</description>
-  <pubDate>Thu, 29 May 2025 19:15:07 +0000</pubDate>
-    <dc:creator>Lukasz Pegiel</dc:creator>
-    <guid isPermaLink="false">6854568 at https://marketplace.eclipse.org</guid>
-    </item>
-<item>
-  <title>Sirius</title>
-  <link>https://marketplace.eclipse.org/content/sirius</link>
-  <description>
-&lt;span&gt;Sirius&lt;/span&gt;
-
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;Sirius is an Eclipse project (&lt;a href="https://www.eclipse.dev/sirius" rel="nofollow"&gt;https://www.eclipse.dev/sirius&lt;/a&gt;) that allows you to easily create your own graphical modeling tools. It leverages the Eclipse modeling technologies...&lt;/p&gt;
-
-&lt;/div&gt;
-      
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/omisingnameuel"&gt;Obeo Products&lt;/a&gt;&lt;/span&gt;
-
-&lt;span&gt;&lt;time datetime="2013-11-20T04:56:47-05:00" title="Wednesday, November 20, 2013 - 04:56"&gt;Wed, 11/20/2013 - 04:56&lt;/time&gt;
-&lt;/span&gt;
-</description>
-  <pubDate>Wed, 20 Nov 2013 09:56:47 +0000</pubDate>
-    <dc:creator>Obeo Products</dc:creator>
-    <guid isPermaLink="false">1318261 at https://marketplace.eclipse.org</guid>
-    </item>
-<item>
-  <title>GitHub Copilot - Nightly</title>
-  <link>https://marketplace.eclipse.org/content/github-copilot-nightly</link>
-  <description>
-&lt;span&gt;GitHub Copilot - Nightly&lt;/span&gt;
-
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;GitHub Copilot for Eclipse is the official plugin from GitHub, providing intelligent coding assistance. Enhance your development workflow on Eclipse with real-time suggestions and...&lt;/p&gt;
-
-&lt;/div&gt;
-      
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/gcopilot"&gt;GitHub Copilot&lt;/a&gt;&lt;/span&gt;
-
-&lt;span&gt;&lt;time datetime="2025-05-27T01:21:47-04:00" title="Tuesday, May 27, 2025 - 01:21"&gt;Tue, 05/27/2025 - 01:21&lt;/time&gt;
-&lt;/span&gt;
-</description>
-  <pubDate>Tue, 27 May 2025 05:21:47 +0000</pubDate>
-    <dc:creator>GitHub Copilot</dc:creator>
-    <guid isPermaLink="false">6847135 at https://marketplace.eclipse.org</guid>
-    </item>
-<item>
-  <title>Fortify Complete Plugin</title>
-  <link>https://marketplace.eclipse.org/content/fortify-complete-plugin</link>
-  <description>
-&lt;span&gt;Fortify Complete Plugin&lt;/span&gt;
-
-            &lt;div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"&gt;  &lt;p&gt;The Fortify Plugin for Eclipse consists of three separate plugin components: Analysis: Enables you to start an OpenText™ Fortify Static Code Analyzer analysis with Fortify Software...&lt;/p&gt;
-
-&lt;/div&gt;
-      
-&lt;span&gt;&lt;a title="View user profile." href="https://marketplace.eclipse.org/user/akarjakina8p7"&gt;Anna Karyakina&lt;/a&gt;&lt;/span&gt;
-
-&lt;span&gt;&lt;time datetime="2024-05-23T19:50:34-04:00" title="Thursday, May 23, 2024 - 19:50"&gt;Thu, 05/23/2024 - 19:50&lt;/time&gt;
-&lt;/span&gt;
-</description>
-  <pubDate>Thu, 23 May 2024 23:50:34 +0000</pubDate>
-    <dc:creator>Anna Karyakina</dc:creator>
-    <guid isPermaLink="false">5894817 at https://marketplace.eclipse.org</guid>
+  <pubDate>Fri, 20 Jun 2025 12:56:15 +0000</pubDate>
+    <dc:creator>Adam Wisniewski</dc:creator>
+    <guid isPermaLink="false">6897402 at https://marketplace.eclipse.org</guid>
     </item>
 
   </channel>

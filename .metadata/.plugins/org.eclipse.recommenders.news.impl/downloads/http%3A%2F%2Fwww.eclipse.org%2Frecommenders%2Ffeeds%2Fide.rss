@@ -258,10 +258,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     id="sponsorship-sub-menu">
                     <li>
                       <a class="mobile-menu-item"
-                        href="https://newsroom.eclipse.org/">Sponsor</a>
+                        href="https://www.eclipse.org/sponsor/">Become a Sponsor</a>
                     </li>
                     <li>
-                      <a class="mobile-menu-item" href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
+                      <a class="mobile-menu-item" href="https://www.eclipse.org/org/our-sponsors/">Sponsor Directory</a>
                     </li>
                   </ul>
                 </div>
@@ -590,10 +590,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <p class="menu-heading">Sponsorship</p>
                   <ul>
                       <li>
-                          <a href="https://www.eclipse.org/sponsor/">Sponsor</a>
+                          <a href="https://www.eclipse.org/sponsor/">Become a Sponsor</a>
                       </li>
                       <li>
-                          <a href="https://www.eclipse.org/sponsor/collaboration/">Sponsor a Collaboration</a>
+                          <a href="https://www.eclipse.org/org/our-sponsors/">Sponsor Directory</a>
                       </li>
                   </ul>
               </div>
